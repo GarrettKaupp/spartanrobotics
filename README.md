@@ -29,9 +29,12 @@ Active list of contributors include:
 
  
 
- - PJ Olmsted
+ - PJ Olmsted (ROBOTC)
   
  
 
- - Garrett Kaupp
+ - Garrett Kaupp (ROBOTC)
  
+ 
+ 
+ - Ethan McFarlin (HTML (bootstrap), CSS, JS (jQuery), PHP, JSON)
