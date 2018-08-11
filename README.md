@@ -1,6 +1,6 @@
 # Doherty High School VEX Robotics Chapter
 
-Features competition robot code as part of the VEX Robotics annual design challenge. Programmed in ROBOTC, a subset of the general C language.
+Features competition robot code as part of the VEX Robotics annual design challenge and website sourcecode.
 
 ## Contributing Guidelines
 
